@@ -1,6 +1,6 @@
 # Zaniel García Orihuela 🇨🇺
 
-## Competitive Programming Contestant History
+## Competitive Programming History
 
 **2021-2022**
 
