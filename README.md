@@ -31,6 +31,7 @@
 - *ICPC Caribbean Finals (Qualifier)*. High school (*Vocational Preuniversity Institute of Exact Sciences "Carlos Marx" of Matanzas*), Matanzas. ***Silver medal***.
 - Member of *National Pre-Selection*.
 - *OII (Ibero-American Olympiad in Informatics)*. ***Bronze medal***.
+- *IOI (International Olympiad in Informatics)*.
 
 ---
 
