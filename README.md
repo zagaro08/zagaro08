@@ -37,8 +37,7 @@
 
 <img src="img/ICPC2023certificado.png" title="ICPC-2023. Certificate of Achievement." width="150" height="212"> <img src="img/ICPC2023bronzemedal.png" title="ICPC-2023. Award Certificate of Bronze Medal." width="150" height="212"> <img src="img/ICPC2024certificado.png" title="ICPC-2024. Certificate of Achievement." width="150" height="212"> <img src="img/ICPC2024goldmedal.png" title="ICPC-2024. Award Certificate of Gold Medal." width="150" height="212"> <img src="img/ICPC2024Invitation letters.png" title="ICPC-2024. Invitation letter to participate in The 2024 Caribbean Finals." width="150" height="212"> <img src="img/ICPC2025certificado.png" title="ICPC-2025. Certificate of Achievement." width="150" height="212"> <img src="img/ICPC2025silvermedal.png" title="ICPC-2025. Award Certificate of Silver Medal." width="150" height="212">
 
-<img src="img/OIIcertificado2024.png" title="OII-2024 Certificate." width="150" height="106"> <img src="img/OIIcertificado2025.png" title="OII-2025 Certificate." width="150" height="106"> <img src="img/OIIcertificado2026.jpg" title="OII-2026 Certificate." width="150" height="106">
-<img src="img/IOIcertificado2026.jpeg" title="IOI-2026 Certificate." width="150" height="106">
+<img src="img/OIIcertificado2024.png" title="OII-2024 Certificate." width="150" height="106"> <img src="img/OIIcertificado2025.png" title="OII-2025 Certificate." width="150" height="106"> <img src="img/OIIcertificado2026.jpg" title="OII-2026 Certificate." width="150" height="106"> <img src="img/IOIcertificado2026.jpeg" title="IOI-2026 Certificate." width="150" height="106">
 
 <!--
 **zagaro08/zagaro08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
